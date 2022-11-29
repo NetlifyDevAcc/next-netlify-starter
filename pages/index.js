@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           KYS
         </p>
+        <p className="description">
+          Nigga
+        </p>
       </main>
 
       <Footer />
